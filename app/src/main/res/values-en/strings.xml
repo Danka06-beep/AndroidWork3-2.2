@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidWork3-2.2</string>
+    <string-array name="local">
+        <item>Russian</item>
+        <item>English</item>
+    </string-array>
+    <string name="main_text">Hello WORLD!!!!</string>
+    <string name="button_ok">Ok</string>
+
+</resources>
